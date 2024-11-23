@@ -63,7 +63,7 @@ Case studies on specific brands highlighted the model's capability to detect sen
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-
+```
 ]H. K. Azzaakiyyah, ‘‘The impact of social media use on social interaction in contemporary society,’’ Technol. Soc. Perspect. (TACIT), vol. 1, no. 1, pp. 1–9, Aug. 2023. [2]H. Fu, J. Guan, R. Wang, L. Kong, and Q. Dai, ‘‘How does digitalization affect the urban-rural disparity at different disparity levels: A Bayesian quantile regression approach,’’ Technol. Soc., vol. 78, Sep. 2024, Art. no. 102633. [Online]. Available: https://www. sciencedirect.com/science/article/pii/S0160791X24001817 [3]S. Robledo, P. Duque, and A. M. G. Aguirre, ‘‘Word of mouth marketing: A scientometric analysis,’’ J. Scientometric Res., vol. 11, no. 3, pp. 436–446, Jan. 2023. [4]J. Chen, ‘‘The reform of school education and teaching under the,’’ Sci. Social Res., vol. 4, no. 2, pp. 42–45, 2022. [5]B. Anastasiei, N. Dospinescu, and O. Dospinescu, ‘‘Word-of-mouth engagement in online social networks: Influence of network centrality and density,’’ Electronics, vol. 12, no. 13, p. 2857, Jun. 2023..
 
 
